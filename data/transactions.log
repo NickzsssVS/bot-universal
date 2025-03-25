@@ -1,0 +1,5 @@
+2025-03-24 15:01:34,017 - INFO - CRIACAO_CONTA: {"user_id": "767815622699515936", "username": "nickzsss", "saldo_inicial": 2646}
+2025-03-24 22:59:29,083 - INFO - TRABALHO: {"user_id": "767815622699515936", "username": "nickzsss", "valor": 946, "data": "2025-03-24T22:59:29.083644"}
+2025-03-24 23:02:04,573 - INFO - JACKPOT: {"user_id": "767815622699515936", "username": "nickzsss", "valor_apostado": 250.0, "ganhou": false, "data": "2025-03-24T23:02:04.573585"}
+2025-03-24 23:34:39,015 - INFO - CRIACAO_CONTA: {"user_id": "838218786715861054", "username": "hoorusvlr", "saldo_inicial": 3173}
+2025-03-24 23:36:22,847 - INFO - TRABALHO: {"user_id": "838218786715861054", "username": "hoorusvlr", "valor": 262, "data": "2025-03-24T23:36:22.847079"}
